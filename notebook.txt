@@ -11,3 +11,5 @@ x/1xb &c
 
 
 2d 36 37 33 30 20 36 38 2e 31 32 33 20 4a a a // ascii characters of abc.txt
+
+b6 e5 fa 3e 88 42 4a // ascii characters of abc.bin
