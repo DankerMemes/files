@@ -1,0 +1,13 @@
+x/4bt &b
+0xbfffef8c:	11111010	00111110	10001000	01000010//binary value of b
+x/4xb &b
+0xbfffef8c:	0xfa	0x3e	0x88	0x42//hex value of b
+x/1bt &c
+0xbfffef89:	01001010// binary value of c
+x/1xb &c
+0xbfffef89:	0x4a//hex value of c
+
+
+
+
+2d 36 37 33 30 20 36 38 2e 31 32 33 20 4a a a // ascii characters of abc.txt
